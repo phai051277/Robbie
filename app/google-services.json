@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "840648632916",
+    "firebase_url": "https://phai1205.firebaseio.com",
+    "project_id": "phai1205",
+    "storage_bucket": "phai1205.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840648632916:android:28559027395b8026",
+        "android_client_info": {
+          "package_name": "com.example.firebasesample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840648632916-cv4osb1cegou7o4mncs7ll9eok1cg9ip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4VqvmjjhsfJi06QsyWIPFSxXhslYqTi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840648632916-cv4osb1cegou7o4mncs7ll9eok1cg9ip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
